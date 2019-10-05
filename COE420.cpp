@@ -4,5 +4,5 @@ using namespace std;
 void addFeatureB(){}
 
 void main(){
-    cout << "Hello world!";
+    cout << "Hello world!" // there is no semicolon
 }
